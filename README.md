@@ -2,4 +2,4 @@
 Let's start!
 
 New edit
-git bash notepad
+git bash notepad!
